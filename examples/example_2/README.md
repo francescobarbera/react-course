@@ -1,0 +1,1 @@
+## Un componente con attributi di input

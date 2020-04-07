@@ -1,0 +1,37 @@
+.todo-list{
+    background-color: #9cb8a0;
+    width: 340px;
+    padding: 8px;
+    
+}
+
+.input-box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.todo-list-input{
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+    font-size: 1.2rem;
+    margin: 0 auto;
+    padding: 1.5rem 2rem;
+    border-radius: 0.2rem;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    width: 120px;
+    border-bottom: 0.3rem solid 
+}
+
+.todo-list-button{
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+    font-size: 1.2rem;
+    margin: 0 auto;
+    border-radius: 32px;
+    padding: 8px;
+    border: none;
+    width: 120px;
+    text-align: center;
+}
